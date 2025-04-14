@@ -24,9 +24,9 @@ Welcome to my GitHub profile! I'm passionate about technology, open-source, and 
 ![Bboysire's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bboysire&show_icons=true&theme=radical)
 
 ## 📫 Connect With Me
-- **Email**: [bboysire@example.com](mailto:bboysire@example.com)
-- **LinkedIn**: [linkedin.com/in/bboysire](https://linkedin.com/in/bboysire)
-- **Twitter**: [@Bboysire](https://twitter.com/Bboysire)
+- **Email**: [bboysire@example.com](brightunaigwe1221@gmail.com)
+- **LinkedIn**: [linkedin.com/in/bboysire](https://linkedin.com/in/brightunaigwe)
+- **Twitter**: [@Bboysire](https://twitter.com/Bunaigwe)
 
 ---
 
