@@ -1,17 +1,19 @@
-# Hi there, I'm Bboysire 👋
+# Hi there, I'm Bright 👋
 
-Welcome to my GitHub profile! I'm passionate about technology, open-source, and building innovative solutions. Here's a bit about me:
+Welcome to my GitHub profile! I am a Biochemistry graduate transitioning into cybersecurity, combining analytical research skills with practical training in network infrastructure and defensive security architecture. Here's a bit about me:
 
 ## 🚀 About Me
-- 🔭 I’m currently working on exciting projects in web development, backend systems, and DevOps.
-- 🌱 I’m learning more about **cloud computing**, **machine learning**, and **blockchain technology**.
-- 👯 I’m looking to collaborate on open-source projects and innovative tech ideas.
-- 💬 Ask me about **JavaScript**, **Python**, **Docker**, and **Kubernetes**.
-- 📫 How to reach me: [brightunaigwe1221@gmail.com](mailto:brightunaigwe1221@gmail.com)
+
+* 🔭 I’m currently working on defensive security scripts and network infrastructure projects at DecodeLabs.
+* 🌱 I’m learning more about **vulnerability analysis**, **cryptographic implementations**, and **Linux system administration**.
+* 👯 I’m looking to collaborate on open-source security modules and network simulation projects.
+* 💬 Ask me about **Python**, **Cisco Packet Tracer**, and **Network Security Engineering**.
+* 📫 How to reach me: [brightemeka1221@gmail.com](mailto:brightemeka1221@gmail.com)
 
 ## 🛠️ Tech Stack
-- **Languages**: JavaScript, Python, Go, Bash
-- **Frameworks & Libraries**: React, Node.js, Express, Flask
+
+* **Languages**: Python, Bash
+* **Systems & Tools**: Linux (Kali Linux), Cisco Packet Tracer, Git
 - **Tools & Platforms**: Docker, Kubernetes, GitHub Actions, AWS, Azure, GCP
 - **Databases**: MySQL, PostgreSQL, MongoDB, Redis
 
